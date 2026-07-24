@@ -1,0 +1,12 @@
+body {
+    background: linear-gradient(135deg, #1f2937, #111827);
+    min-height: 100vh;
+    color: white;
+}
+
+.titulo {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #facc15;
+    text-shadow: 0 0 10px gold;
+}
